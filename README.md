@@ -1,3 +1,5 @@
 # randomStuff
 
-just some random stuff and tests
+Just some random stuff and tests.
+
+[Link to a ipynb](./ipynb/randomStuff.ipynb)
